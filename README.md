@@ -1,2 +1,4 @@
 # javaDataStructure
-Data structures and algorithms in Java.
+Review and improvement of data structures and algorithms in Java.
+
+
